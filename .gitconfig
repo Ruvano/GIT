@@ -1,3 +1,5 @@
 [user]
 	email = pravotsa@gmail.com
 	name = Ruvano
+[core]
+	editor = code --wait
