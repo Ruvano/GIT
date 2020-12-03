@@ -131,3 +131,124 @@ ls -all
 git remote -v
 git remote set-url origin https://github.com/Ruvano/GIT.git
 git remote -v
+touch dev-branch.md
+add dev-branch .md
+git add dev-branch .md
+git add dev-branch.md
+git commit -m 'dev-branch.md'
+git log
+git checkout master
+git log
+git log --oneline
+touch master-branch.md
+git add master-branch.md
+git commit -m 'master-branch.md'
+git add master-branch.md
+git add master-branch.md
+git commit -m 'master-branch.md'
+git commit -m 'master-branch.md2'
+git push
+git log -a
+git log --a
+git log --oneline
+git chackout dev
+git checkout dev
+git log
+clear
+git status
+git branch  status
+ls
+clear
+git status
+git branch dev-master master
+git branch
+git checkout status
+ls
+git checkout dev-master
+git log --oneline
+git checkout -b dev-test
+git checkout -b dev
+git branch
+git branch -d status
+cd ~
+git checkout master
+git branch -d status
+git branch -D status
+git init
+ls
+ls -a
+cd project
+ls
+ls -a
+cd ..
+git branch
+git checkout dev-master
+git log --oneline
+git branch dev-master master
+git checkout dev
+git branch dev-master master
+git log --oneline
+git checkout master
+git log --oneline
+git log --oneline
+git status
+git log --oneline
+git checkout master
+git log --oneline
+git log --oneline
+ls
+cd~
+help
+help
+ls
+-h
+--h
+--helpp
+--help
+help
+sudo
+ls
+cls
+clear
+ls
+cd ~
+cd ~master
+cls
+clear
+help
+PWD
+cd ~
+terminal.integrated.automationShell
+cls
+clear
+Language=ru
+ClicksPlaceCursor=yes
+MiddleClickAction=void
+RightClickAction=paste
+OpaqueWhenFocused=yes
+AllowSetSelection=yes
+SelectionShowSize=12
+PgUpDnScroll=yes
+Columns=89
+Rows=26
+FontHeight=10
+FontSmoothing=full
+Locale=ru_RU
+Charset=UTF-8
+EmojiPlacement=stretch
+Term=xterm-256color
+ClipShortcuts=yes
+echo $HOME
+ls
+apt list --upgradable
+apt list --upgradable
+git -v
+git --version
+pwd
+ls
+cd ~
+pwd
+ls
+cd test
+ls
+git log
