@@ -252,3 +252,24 @@ ls
 cd test
 ls
 git log
+зцв
+pwd
+cd ~
+pwd
+git reflog
+clear
+git reflog
+echo \$SHELL
+\$ bash
+pwd
+ls
+cls
+slc
+clear
+ls
+pwd
+cd ~
+pwd
+ls
+clear
+exit
