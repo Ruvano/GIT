@@ -27,4 +27,4 @@ git remote -v									- показать список прямых подсое�
 1) git commit -a == git add <filename> + git commit
 2) git commit -am 'Коммит-сообщение-текст'						- здесь m (message) сообщение
 
-git restore
+git restore 
