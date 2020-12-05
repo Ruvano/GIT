@@ -14,4 +14,3 @@ include('grid.css');
 include('print.css');
 
 ob_end_flush();
-?>
