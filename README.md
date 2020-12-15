@@ -1,6 +1,6 @@
 git config --global user.name "Ivan Russkij"
-git config --global user.email RuVano@gmail.com
-git config --global color.ui.auto
+git config --global user.email RuVano@gmail.com		-Ваш email
+git config --global color.ui auto									-цвет командной строки для Git
 git config --list
 
 
@@ -28,3 +28,5 @@ git remote -v									- показать список прямых подсое�
 2) git commit -am 'Коммит-сообщение-текст'						- здесь m (message) сообщение
 
 git restore
+
+
