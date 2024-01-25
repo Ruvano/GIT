@@ -1,8 +1,0 @@
-[user]
-	email = pravotsa@gmail.com
-	name = pravotsa
-[core]
-	editor = code --wait
-	longpaths = true
-[color]
-	ui = auto
